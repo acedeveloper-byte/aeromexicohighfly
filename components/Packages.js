@@ -9,40 +9,28 @@ import "swiper/css/navigation";
 const destinations = [
   {
     country: "USA",
-    location: "New York",
-    price: "$240",
-    image: "/images/destinations/destination1.png",
+    location: "Orlando",
+    price: "$250",
+    image: "/images/destinations/orlando.jpg",
   },
   {
     country: "USA",
-    location: "Chicago",
-    price: "$240",
-    image: "/images/destinations/destination1.png",
+    location: "Boston",
+    price: "$175",
+    image: "/images/destinations/boston.jpg",
   },
   {
     country: "USA",
-    location: "Los Angeles",
-    price: "$240",
-    image: "/images/destinations/destination1.png",
+    location: "Miami",
+    price: "$140",
+    image: "/images/destinations/miami.jpg",
   },
   {
     country: "USA",
-    location: "Tampa",
-    price: "$240",
-    image: "/images/destinations/destination1.png",
-  },
-  {
-    country: "USA",
-    location: "Seattle",
-    price: "$240",
-    image: "/images/destinations/destination1.png",
-  },
-  {
-    country: "USA",
-    location: "San Diego",
-    price: "$240",
-    image: "/images/destinations/destination1.png",
-  },
+    location: "Hawaii",
+    price: "$99",
+    image: "/images/destinations/hawaii.webp",
+  }
 ];
 
 const Packages = () => {

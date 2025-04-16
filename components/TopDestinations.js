@@ -10,13 +10,13 @@ const destinations = [
   {
     country: "USA",
     location: "New York",
-    price: "$240",
+    price: "$249",
     image: "/images/destinations/new-york.jpg",
   },
   {
     country: "USA",
     location: "Chicago",
-    price: "$240",
+    price: "$150",
     image: "/images/destinations/chicago.jpg",
   },
   {
@@ -29,7 +29,7 @@ const destinations = [
   {
     country: "USA",
     location: "San Diego",
-    price: "$240",
+    price: "$250",
     image: "/images/destinations/san-diego.jpg",
   },
 ];

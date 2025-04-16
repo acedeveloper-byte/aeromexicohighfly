@@ -57,8 +57,8 @@ const SearchEngine = () => {
             type === "adult"
               ? "Adult -"
               : type === "child"
-              ? "Child (2-11) -"
-              : "Infant (0-2) -";
+                ? "Child (2-11) -"
+                : "Infant (0-2) -";
           return (
             <div
               key={type}
@@ -90,7 +90,7 @@ const SearchEngine = () => {
     <div style={{ position: "relative", height: "450px" }}>
       {/* Background */}
       <Image
-        src="/home-poster.jpeg"
+        src="/images/home-poster.jpg"
         alt="Poster"
         fill
         style={{ objectFit: "cover", zIndex: 1 }}
@@ -108,6 +108,7 @@ const SearchEngine = () => {
           paddingBottom: "20px",
           textAlign: "center",
           color: "#fff",
+          background: 'radial-gradient(black, transparent)'
         }}
       >
         <h1 className="fw-bold display-5">Book Your Next Adventure</h1>
@@ -268,7 +269,7 @@ const SearchEngine = () => {
           </Col>
         </Row>
       </div>
-    </div>
+    </div >
   );
 };
 
