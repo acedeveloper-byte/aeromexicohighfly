@@ -8,7 +8,7 @@ const HomeContent = () => {
     <div>
       <Container className="my-2">
         <Row>
-          <Col md={6}>
+          <Col md={6} className="mob-layout">
             <Image
               src="/images/home-about-poster.jpg"
               alt=" Airlines"

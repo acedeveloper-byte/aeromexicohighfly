@@ -148,4 +148,23 @@ input.form-control:active {
 }
 
 
+
+
+@media only screen and (max-width: 480px) {
+  .mob-layout img {
+    height: auto !important;
+    width: 100% !important;
+  }
+
+  .cards-mob{
+    margin-top: 11rem !important;
+
+  }
+
+  .mob-nav{
+line-height: 38px !important;
+  }
+}
+
+
 /* my end */

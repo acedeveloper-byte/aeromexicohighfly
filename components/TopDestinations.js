@@ -36,7 +36,7 @@ const destinations = [
 
 const TopDestinations = () => {
   return (
-    <Container className="my-5 text-center">
+    <Container className="my-5 text-center ">
       {/* Section Title */}
       <div className="d-flex justify-content-center align-items-center gap-3 mb-4">
         <div
@@ -67,6 +67,7 @@ const TopDestinations = () => {
           768: { slidesPerView: 2 },
           992: { slidesPerView: 3 },
         }}
+        className="cards-mob"
       >
         {destinations.map((dest, idx) => (
           <SwiperSlide key={idx}>

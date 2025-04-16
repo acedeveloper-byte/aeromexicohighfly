@@ -14,9 +14,9 @@ const Header = () => {
         <Navbar.Brand as={Link} href="/">
           <Image src="/logo/" width={170} height={50} alt="Logo" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ms-auto ">
+        <Navbar.Toggle aria-controls="basic-navbar-nav " style={{ fontSize: '11px !important' }} />
+        <Navbar.Collapse id="basic-navbar-nav" >
+          <Nav className="ms-auto mob-nav">
             <a
               href="/"
               className="mx-2 fw-medium text-decoration-none text-dark mx-3"

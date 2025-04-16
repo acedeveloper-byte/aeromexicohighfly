@@ -14,9 +14,9 @@ const Footer = () => {
         <Row>
           {/* About Us */}
           <Col md={4} className="mb-4 text-start">
-            <Image src="/logo/logo.png" alt="Copa High Fly" width={170} height={50} className="mb-2 footer-logo" />
+            <Image src="/logo/.png" alt="Copa High Fly" width={170} height={50} className="mb-2 footer-logo" />
             <p>
-              At Copahighfly, we believe that everyone should enjoy air travel within their budget. We offer flights to various destinations worldwide at discounted fares. Connect with us to find affordable Copa Airlines flights, and bring your travel dream to reality. Start planning your dream trip today with us!
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
             </p>
 
             <div className="d-flex gap-3 mt-3">

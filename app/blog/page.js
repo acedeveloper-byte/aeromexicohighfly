@@ -18,7 +18,7 @@ const Page = () => {
         </div>
 
         <Row className="g-4">
-          {[1, 2, 3].map((item, index) => (
+          {[1].map((item, index) => (
             <Col key={index} md={4}>
               <Card className="h-100 shadow-sm border-0">
                 <Image
