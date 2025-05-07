@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Our Blogs | Copahighfly",
+  title: "Our Blogs | Librovuelos",
   description: "Read our informational blogs to get details on Copa Airlines services. Check out the policies in advance for a hassle-free experience.",
 };
 

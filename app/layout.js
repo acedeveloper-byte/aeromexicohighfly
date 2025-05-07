@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Book Cheap Copa Airlines Flights | Copahighfly",
+  title: "Book Cheap Copa Airlines Flights | Librovuelos",
   description:
-    "Find exclusive deals on Copa Airlines booking, and make affordable reservations. Call Copahighfly for deals, and travel for less!",
+    "Find exclusive deals on Copa Airlines booking, and make affordable reservations. Call Librovuelos for deals, and travel for less!",
 };
 
 export default function RootLayout({ children }) {
