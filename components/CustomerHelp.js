@@ -51,7 +51,7 @@ const CustomerHelp = () => {
       </div>
       <Row>
         {features.map((feature, idx) => (
-          <Col key={idx} md={6} lg={3} className="mb-4 card mx-1 cards-layout" >
+          <Col key={idx} md={6} lg={3} className="mb-4  mx-1 " >
             <div className="mb-3">
               {/* <Image
                 src={feature.icon}
