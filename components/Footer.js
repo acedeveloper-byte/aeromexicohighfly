@@ -32,7 +32,7 @@ const Footer = () => {
             <h5>Contact Us</h5>
             <ul className="list-unstyled">
               <li>Email: support@librovuelos.com</li>
-              <li>Phone:+1 (000) 000-0000</li>
+              <li>Phone: <a href="tel:+1-855-497-3456 " className='text-decoration-none text-white'>+1-855-497-3456</a></li>
               <li>Address: 222 NE 44TH ST MIAMI, FL 33138</li>
             </ul>
           </Col>
