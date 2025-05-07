@@ -14,7 +14,7 @@ const Footer = () => {
         <Row>
           {/* About Us */}
           <Col md={4} className="mb-4 text-start">
-            <Image src="/logo/.png" alt="Copa High Fly" width={170} height={50} className="mb-2 footer-logo" />
+            <Image src="/logo/logo.png" alt="Copa High Fly" width={190} height={50} className="mb-2 footer-logo" />
             <p>
             Librovuelos is your one-stop platform for all your travel bookings within your budget. Get your hands on the available flight deals to confirm your reservation at the lowest fares possible. Connect with us now to start planning your dream trip!
     </p>

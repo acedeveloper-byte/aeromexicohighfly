@@ -51,19 +51,12 @@ const CustomerHelp = () => {
       </div>
       <Row>
         {features.map((feature, idx) => (
-          <Col key={idx} md={6} lg={3} className="mb-4  mx-1 " >
-            <div className="mb-3">
-              {/* <Image
-                src={feature.icon}
-                alt={feature.title}
-                width={80}
-                height={80}
-                className="img-fluid"
-              /> */}
-            </div>
-            <h5 className="fw-bold">{feature.title}</h5>
-            <p className="text-muted small">{feature.description}</p>
-          </Col>
+         <Col key={idx} md={3} lg={3} className="my-1">
+         <div className="card h-100 p-3 ">
+           <h5 className="fw-bold">{feature.title}</h5>
+           <p className="text-muted small">{feature.description}</p>
+         </div>
+       </Col>
         ))}
       </Row>
     </Container>
