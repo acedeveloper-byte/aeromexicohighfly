@@ -22,7 +22,7 @@ const Page = () => {
                 <FaHome size={40} className="bg-dark text-white p-2 rounded-circle" />
               </div>
               <h5 className="fw-bold">Address</h5>
-              <p>1493 Angie Drive, Santa Ana California, USA</p>
+              <p>222 NE 44TH ST MIAMI, FL 33138</p>
             </div>
 
             <div className="border rounded p-4 text-center shadow-sm mt-4">
