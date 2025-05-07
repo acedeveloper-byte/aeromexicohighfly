@@ -17,7 +17,7 @@ export default function Home() {
       <HomeAbout />
       <CustomerHelp />
       <Packages />
-      <HomeDetails />
+      {/* <HomeDetails /> */}
 
       <Footer />
 

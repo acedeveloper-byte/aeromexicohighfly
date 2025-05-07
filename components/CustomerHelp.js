@@ -6,26 +6,26 @@ const features = [
   {
     title: "Affordable Fares",
     description:
-      "Book affordable fares with Deltaflyhub and save extra on air travel bookings.",
-    icon: "/images/icons/fare.png", // Replace with actual path
+      "We offer exclusive deals because great travel experiences shouldn't come with a huge price tag.",
+    // icon: "/images/icons/fare.png",
   },
   {
-    title: "24-Hour Assistance",
+    title: "Premium Services",
     description:
-      "Our team is available to assist you 24/7 with any concerns related to flights and more.",
-    icon: "/images/icons/support.png",
+      "From a user-friendly interface to easy bookings, we believe in making your experience seamless.",
+    // icon: "/images/icons/support.png",
   },
   {
-    title: "Safe & Secure Bookings",
+    title: "24*7 Customer Assistance",
     description:
-      "We guarantee a 100% safe and secure booking experience at Deltaflyhub.",
-    icon: "/images/icons/secure.png",
+      "Our experts are available 24*7 to help you with all your concerns related to bookings, cancellations, and more. ",
+    // icon: "/images/icons/secure.png",
   },
   {
-    title: "Easy-to-use Platform",
+    title: "Complete Transparency",
     description:
-      "Our platform is easy-to-use and navigate for quick, hassle-free bookings.",
-    icon: "/images/icons/platform.png",
+      "We focus on complete transparency so that customers can make informed decisions with confidence.",
+    // icon: "/images/icons/platform.png",
   },
 ];
 
@@ -43,7 +43,7 @@ const CustomerHelp = () => {
             marginBottom: 0,
           }}
         >
-          Travel the World on a Budget
+       Smart Travelers Book Here
         </h3>
         <div
           style={{ height: "2px", background: "#0d6efd", width: "80px" }}
@@ -51,15 +51,15 @@ const CustomerHelp = () => {
       </div>
       <Row>
         {features.map((feature, idx) => (
-          <Col key={idx} md={6} lg={3} className="mb-4">
+          <Col key={idx} md={6} lg={3} className="mb-4 card mx-1 cards-layout" >
             <div className="mb-3">
-              <Image
+              {/* <Image
                 src={feature.icon}
                 alt={feature.title}
                 width={80}
                 height={80}
                 className="img-fluid"
-              />
+              /> */}
             </div>
             <h5 className="fw-bold">{feature.title}</h5>
             <p className="text-muted small">{feature.description}</p>

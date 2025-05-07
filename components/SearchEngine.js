@@ -111,9 +111,10 @@ const SearchEngine = () => {
           background: 'radial-gradient(black, transparent)'
         }}
       >
-        <h1 className="fw-bold display-5">Book Your Next Adventure</h1>
+        <h1 className="fw-bold display-5">Find Discounted Flight Fares!
+        </h1>
         <p className="lead">
-          Find the best deals on flights worldwide. Flexible. Simple. Fast.
+        Get unlimited deals and save big on your next flight.
         </p>
       </div>
 

@@ -17,37 +17,36 @@ const HomeContent = () => {
             />
           </Col>
           <Col md={6}>
-            <p className="fw-bold">About Copahighfly </p>
+            <p className="fw-bold">Travel For Less! </p>
 
             <h2 className="fs-3 fw-bold">
-              Bring Your Travel Dream to Reality With Copahighfly
+            Librovuelos- Where Budget Meets the Skies
+
             </h2>
             <p>
-              At Copahighfly, we promise to fulfil your travel dreams within
-              your expected budget. We are a third-party travel booking platform
-              that helps you book Copa flights to your destination. Find
-              exclusive deals on Copa Airlines flights, and travel to this
-              gorgeous world without hurting your pocket. Connect with us as
-              soon as possible to plan a trip to your fancies and whims.
+            At Librovuelos, we believe that exploring the world shouldn’t come with a hefty price tag. That’s why we’ve made it easy to search, compare, and book the cheapest flights from multiple airlines. If you are looking for the best travel experience within your budget, we can be your perfect pick. Decide where you want to go, set up a budget, and we will craft a perfect itinerary even for less. Connect with us to plan your long-awaited trip.
+
             </p>
+            <h4>What You Get?</h4>
             <ul>
+             
               <li>
-                We believe that travel is not about reaching a destination; it's
-                about collecting memories.
+                <b>
+              Exclusive Deals: </b>Get countless flight deals to snap up on the big savings.
+
               </li>
               <li>
-                {" "}
-                With us, you will experience personalized services that suit
-                your travel priorities.{" "}
+             <b> Personalized Experience:</b> Share your priorities, and customzie your journey accordingly.
+
+              
               </li>
               <li>
-                {" "}
-                Contact our experts 24*7 for a tailor-made travel plan that you
-                will remember forever.
+              <b>Safe & Secure Bookings:</b> Book confidently with us, knowing all your data is safe.
+
               </li>
               <li>
-                From easy booking to our user-friendly interface, our premium
-                services will make your work easier.
+              <b>World-Class Services:</b> Choose us for top-notch travel booking services.
+
               </li>
             </ul>
           </Col>

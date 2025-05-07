@@ -15,64 +15,74 @@ const page = () => {
 
         </div>
         <hr />
-        <ol>
-           <li className='fs-5 fw-bold'> Introduction</li>
-      
-        <p>At Copahighfly, we are entirely committed to protecting your privacy. This Privacy Policy clearly highlights how we gather, use, and protect your personal information when you use Copahighfly and its services. By using our website, you consent to the practices described in this policy.</p>
-        <p>Please Note: Copahighfly is an independent third-party booking service and is not affiliated with Copa Airlines.</p>
-       
-           <li className='fs-5 fw-bold'> Information We Collect</li>
-       
-        <p>Copahighfly may gather the following types of information:</p>
-        <ul>
-          <li >Personal Information: This includes your name, email address, phone number, and payment information that you provide when booking flights.</li>
-          <li >Non-Personal Information: We may collect data about your interactions with our website, including the browser you are using, IP addresses, and pages visited.<br /><br /></li>
-        </ul>
-       
-           <li className='fs-5 fw-bold'> How We Use Your Information</li>
-       
-        <p>We use your information for various purposes, including:</p>
-        <ul>
-          <li >Processing and managing your flight bookings.</li>
-          <li >Communicating with you about your reservations.</li>
-          <li >Improving our services and website functionality.</li>
-          <li >Sending promotional materials and updates (with your consent).<br /><br /></li>
-        </ul>
-       
-           <li className='fs-5 fw-bold'> Sharing Your Information</li>
-       
-        <p>Copahighfly doesn&rsquo;t sell or rent your personal details or data to third parties. We may disclose your information to:</p>
-        <ul>
-          <li >Service Providers: Third-party vendors who assist us in providing services (e.g., payment processors).</li>
-          <li >Legal Authorities: Only to protect our rights if required by the law.<br /><br /></li>
-        </ul>
-       
-           <li className='fs-5 fw-bold'> Data Security</li>
-       
-        <p>As we aim to protect your data, we apply industry-standard security measures to safeguard your personal data from unauthorized disclosure, access, or misuse. However, please note that no method of online data transmission is completely secure. We advise you to be extra careful when sharing your information.</p>
-       
-           <li className='fs-5 fw-bold'> Cookies</li>
-       
-        <p>Our website uses cookies to enhance your user experience. Cookies help us understand how you interact with our site and what your preferences are. The user can go to the browser settings to accept or decline cookies.</p>
-       
-           <li className='fs-5 fw-bold'> Your Rights</li>
-       
-        <p>You have the right to:</p>
-        <ul>
-          <li >Access your personal information.</li>
-          <li >Request corrections to any inaccuracies.</li>
-          <li >Opt-out of promotional communications.<br /><br /></li>
-        </ul>
-        <p>To exercise these rights, please contact us using the information below.</p>
-       
-           <li className='fs-5 fw-bold'> Modifications to This Privacy Policy</li>
-       
-        <p>We may apply changes to this Privacy Policy from time to time to reflect the changes in our business practises. We will update you about these changes by posting them on this page. Your continued use of our services after any modifications reflects that you accept this revised policy.</p>
-       
-           <li className='fs-5 fw-bold'> Contact Us</li>
-       
-        <p>If you have any questions or concerns about this Privacy Policy, please contact us at info@copahighfly.com.</p>
-        </ol>
+        <p>Welcome to <strong>Librovuelos.com</strong> ("we", "us", "our"). Your privacy is important to us, and we are committed to protecting the personal information you share with us. This Privacy Policy describes our practices regarding the collection and handling of your personal information when you visit Librovuelos or use our services.</p>
+<p>By using our website and services, you agree to the terms outlined in this Privacy Policy.</p>
+<h3>1. Information We Collect</h3>
+<p>We may gather the below-stated information:</p>
+<h4>a. Personal Information</h4>
+<p>When you book a reservation or contact us, we may gather personal details such as:</p>
+<ul>
+<li >Name</li>
+<li >Phone number</li>
+<li >Email address</li>
+<li >Billing and payment information</li>
+<li >Travel details (e.g., destinations, dates, preferences)<br /><br /></li>
+</ul>
+<h4>b. Non-Personal Information</h4>
+<p>We at Librovuelos. com, may collect non-identifiable details automatically, such as:</p>
+<ul>
+<li >Device type</li>
+<li >IP address</li>
+<li >Browser type</li>
+<li >Pages visited and time spent</li>
+<li >Cookies and tracking technologies<br /><br /></li>
+</ul>
+<h3>2. How We Use Your Information</h3>
+<p>We use your information to:</p>
+<ul>
+<li >Process and manage bookings and reservations</li>
+<li >Communicate with you about your reservations and inquiries</li>
+<li >Improve our website functionality and user experience</li>
+<li >Provide customer support</li>
+<li >Send promotional or marketing communications (with your consent)</li>
+<li >Prevent fraud and maintain site security</li>
+</ul>
+
+<h3>3. Sharing Your Information</h3>
+<p>We may share your information with:</p>
+<ul>
+<li ><strong>Third-party service providers</strong> (e.g., hotels, airlines, rental car agencies, payment processors) to fulfill your bookings<br /><br /></li>
+<li ><strong>Business partners</strong> for joint promotions or offers (only with your consent)<br /><br /></li>
+<li ><strong>Legal and regulatory authorities,</strong> when needed by law<br /><br /></li>
+<li ><strong>Analytics and marketing platforms</strong> to help us improve services and reach users<br /><br /></li>
+</ul>
+<p>We do not sell your personal information.</p>
+
+<h3>4. Cookies and Tracking Technologies</h3>
+<p>We, at Librovuelos, use cookies and similar technologies to enhance your experience, analyze site usage, and deliver personalized content. However, customers can easily manage their cookie preferences by using their browser settings.</p>
+
+<h3>5. Data Security</h3>
+<p>We at Librovuelos.com, implement reasonable security measures to protect your personal information. However, please be assured that there is no method of transmission on the internet that is completely secure.</p>
+
+<h3>6. Your Rights and Choices</h3>
+<p>Based on the location, the user may have the right to:</p>
+<ul>
+<li >Access, correct, or delete their personal information</li>
+<li >Restrict the processing of their data</li>
+<li >Withdraw their consent at any moment</li>
+<li >Lodge a complaint with a data protection authority<br /><br /></li>
+</ul>
+<p>To exercise your rights, contact us at: <strong>privacy@Librovuelos.com</strong></p>
+
+<h3>7. Third-Party Links</h3>
+<p>Our site may contain links to third-party websites. Librovuelos should not be held liable for their privacy practices. We encourage you to go through their privacy policies separately.</p>
+
+<h3>8. Changes to This Privacy Policy</h3>
+<p>Librovuelos.com has the right to update this Privacy Policy from time to time. We will post all the applicable changes on this page, and they will be effective immediately after posting.</p>
+
+<h3>9. Contact Us</h3>
+<p>If you have any questions about this Privacy Policy or our practices, please contact us at:</p>
+<p><strong>Librovuelos.com</strong><strong><br /></strong> Email: <strong>XXXXXX</strong></p>
       </Container>
       <Footer />
     </>

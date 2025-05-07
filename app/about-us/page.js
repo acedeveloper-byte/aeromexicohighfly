@@ -14,30 +14,31 @@ const page = () => {
           <h1 className='my-3 fw-bold fs-2'>  About us</h1>
         </div>
         <hr />
+        <p>Librovuelos.com is a one-stop platform to book flights with different airlines at discounted fares. With us, you will get exclusive flight deals that will help you complete your travel dreams within your budget. So if you are a budget-oriented traveler and looking forward to a budget trip, then Librovuelos is your perfect pick.</p>
 
-        <p>Copahighfly is your one-stop platform to book cheap Copa Airlines flights to your dream destination. If you are looking for ultimate travel deals for your next travel plan, we are here to help. Contact us to find ongoing travel deals and make your next Copa Airlines booking at discounted fares.&nbsp;</p>
+<p>Our dedicated team is available all the time to help you with your bookings. Share your preferences, and we will craft an itinerary that will suit your budget and priorities. So contact us and get ready for a memorable experience on your way to your dream destination.&nbsp;</p>
 
-        <p>We are a third-party booking platform that is available to help you with the booking process or any other travel-related issues. We are not directly associated with Copa Airlines and don&rsquo;t even have an indirect partnership with the airline. At Copahighfly, we are here to connect you to your dream destination on budget.&nbsp;</p >
+<h3 class="h4">Why Choose Librovuelos?</h3>
+<p>We offer premium travel services that set us apart from other third-party sites. With us, you will enjoy the following benefits.&nbsp;</p>
 
-        <h3 className='fs-4'>Get Exclusive Deals on Copa Flights!</h3 >
-        <p>We offer special deals and discounts so you can plan your journey in your budget. These deals will make your journey even more affordable. To find the ongoing offer on your flight booking, you should get in touch with our experts.&nbsp;</p >
+<h4 class="h5">Unbeatable Deals</h4>
+<p>We offer countless deals and discounts to customers so they can book their flight tickets without any second thoughts.</p>
 
-        <p>At Copahighfly, we will make sure that you have the journey of your dreams in your budget. Our experts will make a tailor-made plan for you that will suit not only your budget, but also your preferences. Share your priorities, and add a personal touch to your itinerary.&nbsp;</p >
+<h4  class="h5">Tailor-Made Packages</h4>
+<p>Our experts will customize a vacation package according to your specific travel needs and budget.</p>
 
-        <h3 className='fs-4'>Why Choose Copahighfly As Your Travel Companion?</h3 >
-        <p>Copahighfly is your perfect travel partner that guarantees to make your journey an unforgettable experience. Some reasons that make us stand out among others are-</p >
+<h4  class="h5">Worldwide Destinations</h4>
+<p>From mountains to beaches, you can book tickets to thousands of destinations worldwide with us.&nbsp;</p>
 
-        <ul>
-          <li>With us, you can make a Copa Airlines booking in just a few clicks.</li>
-          <li>We help you find exclusive deals and discounts for a budget-friendly trip.</li >
-          <li>Our experts are reachable 24*7 to assist you with all your travel-related queries.</li >
-          <li>We make sure that your data is safe and secure with us.</li >
-          <li>Copahighfly believes in 100% transparency. You will not find any hidden charges or fees.</li >
-        </ul >
+<h4  class="h5">24*7 Customer Service</h4>
+<p>Our experts are available all the time to assist you with your travel-related queries for a smooth travel experience.</p>
 
-        <h3 className='fs-4'>Book With Copahighfly Now!</h3 >
-        <p>Get in touch with Copahighfly experts to book your tickets with no extra effort, and have an enjoyable travel experience. We will try our best to help you craft an itinerary to your requirements. Connect with us now!</p >
-    
+<h4  class="h5">Reliable and Trustworthy</h4>
+<p>We are one of the reliable online travel agencies, promising to provide the best services to customers.&nbsp;</p>
+
+<h3  class="h5">Contact Us to Book Now!</h3>
+<p>At librovuelos.com, you get the best services for an unforgettable journey. Our only aim is to facilitate you with a journey of your liking. So what are you waiting for? Get in touch with us now to start planning your next trip!</p>
+      
     <br/>
       </Container >
       <Footer />

@@ -29,12 +29,12 @@ const Header = () => {
             >
               About Us
             </a>
-            <a
+            {/* <a
               href="/blog"
               className="mx-2 fw-medium text-decoration-none text-dark mx-3"
             >
               Blog
-            </a>
+            </a> */}
             <a
               href="/contact-us"
               className="mx-2 fw-medium text-decoration-none text-dark mx-3"

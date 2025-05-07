@@ -167,10 +167,16 @@ line-height: 38px !important;
 }
 
 
-.logo-layout{
-  width: 16rem;
-    padding: 2px;
+.logo-layout {
+  width: 13rem;
+  padding: 2px;
 
+
+}
+
+
+.cards-layout{
+ width: 16rem !important;
 }
 
 /* my end */
