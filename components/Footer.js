@@ -14,7 +14,7 @@ const Footer = () => {
         <Row>
           {/* About Us */}
           <Col md={4} className="mb-4 text-start">
-            <Image src="/logo/logo.png" alt="Copa High Fly" width={190} height={50} className="mb-2 footer-logo" />
+            <Image src="/logo/logo.png" alt="logo" width={190} height={50} className="mb-2 footer-logo" />
             <p>
             Librovuelos is your one-stop platform for all your travel bookings within your budget. Get your hands on the available flight deals to confirm your reservation at the lowest fares possible. Connect with us now to start planning your dream trip!
     </p>
@@ -63,7 +63,7 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="border-top mt-4 pt-3">
           <p className="text-white small mb-1">
-            <strong>Disclaimer:</strong> Librovuelos is your one-stop platform to book affordable Copa Airlines flights, but we are not directly associated with the airline. We are a third-party site offering Copa Airlines services at low fares.
+            <strong>Disclaimer:</strong> Librovuelos is your one-stop platform to book affordable flights, but we are not directly associated with any airline. We are a third-party site offering airline services at low fares.
 
           </p>
           <hr />

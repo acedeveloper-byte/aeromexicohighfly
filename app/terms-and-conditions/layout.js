@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Terms of Service | Librovuelos",
-  description: "Read the Terms and Conditions before using Librovuelos’s services, and accept them to book Copa flights with us.",
+  description: "Would you like to keep the mention of ibrovuelos in all versions or generalize that too?",
 };
 
 export default function RootLayout({ children }) {

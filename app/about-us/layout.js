@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "About Librovuelos | Find Cheap Copa Airlines Flights",
-  description: "Librovuelos is a third-party booking platform that helps you plan an itinerary within your budget. Get cheaper fares on a Copa Airlines booking now!",
+  description: "Librovuelos is a third-party booking platform that helps you plan an itinerary within your budget. Find cheaper fares and book your flights today!",
 };
 
 export default function RootLayout({ children }) {
