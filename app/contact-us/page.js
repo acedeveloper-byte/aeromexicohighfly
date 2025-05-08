@@ -38,7 +38,7 @@ const Page = () => {
                 <FaPhoneVolume size={40} className="bg-dark text-white p-2 rounded-circle" />
               </div>
               <h5 className="fw-bold">Phone Number</h5>
-              <p><a href="tel:+1-855-497-3456 " className='text-decoration-none text-dark'>+1-855-497-3456</a></p>
+              <p><a href="tel:+1-000-000-0000 " className='text-decoration-none text-dark'>+1-000-000-0000</a></p>
             </div>
           </div>
 
