@@ -82,7 +82,7 @@ const page = () => {
 
 <h3>9. Contact Us</h3>
 <p>If you have any questions about this Privacy Policy or our practices, please contact us at:</p>
-<p><strong>Librovuelos.com</strong><strong><br /></strong> Email: <strong>XXXXXX</strong></p>
+<p><strong>Librovuelos.com</strong><strong><br /></strong> Email: <strong>support@librovuelos.com</strong></p>
       </Container>
       <Footer />
     </>
